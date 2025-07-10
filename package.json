@@ -1,0 +1,25 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devstart": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2",
+    "short-urls": "^1.1.11",
+    "shortid": "^2.2.17",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
