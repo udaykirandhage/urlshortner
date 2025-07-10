@@ -30,7 +30,8 @@ URL-shortner/
 ├── .env                       # Environment config
 ├── app.js                     # Main Express app
 
-
+### Architecture :
+<img width="1314" height="1314" alt="Image" src="https://github.com/user-attachments/assets/355bf3db-6d8e-4c59-80a6-6d23a35bba5f" />
 ---
 
 ### 🚀 Endpoints
