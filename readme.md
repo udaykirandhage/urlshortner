@@ -29,9 +29,7 @@ URL-shortner/
 │   └── index.ejs              # EJS front-end template
 ├── .env                       # Environment config
 ├── app.js                     # Main Express app
-### Architecture
 
-<img width="600" alt="Architecture" src="https://github.com/user-attachments/assets/355bf3db-6d8e-4c59-80a6-6d23a35bba5f" />
 
 ---
 
